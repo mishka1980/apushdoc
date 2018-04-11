@@ -9,4 +9,4 @@ chapter 2
     - early problems- swampy area lead to dysentry and malaria, john smith + starving time
     - transition to a royal colony- people died and james i removed charter and nationalized the colony
   - plymouth and massachussets bay
-    - 
+    - argh
