@@ -1,9 +1,10 @@
 # apushdoc
 
-A place to do APUSH!
+a place to do APUSH!
 
-Fuck AP Tests.
+we're gona have a document for every time period, add to the markdown.
 
-We're gona have a document for every time period, add to the markdown.
+every single time period gets its own folder, add any resource you feel appropriate. modify the notes!
 
-DONT CAPITALIZE ANYTHING!
+i only started this today, so i'm sorry that there isn't a lot!
+
